@@ -1,0 +1,580 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse consisting of motives for the enlargement and freedome of trade· Especially that of cloth, and other vvoollen manufactures, engrossed at present contrary to [brace] the law of nature, the law of nations, and the lawes of this kingdome. / By a company of private men who stile themselves merchant-adventurers. The first part. Aprill. 11. 1645 Imprimatur, Na. Brent.</title>
+            <author>Johnson, Thomas, marchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87609</idno>
+            <idno type="STC">Wing J849A</idno>
+            <idno type="STC">Thomason E260_21</idno>
+            <idno type="STC">ESTC R212472</idno>
+            <idno type="EEBO-CITATION">99871081</idno>
+            <idno type="PROQUEST">99871081</idno>
+            <idno type="VID">123479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123479)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E260[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse consisting of motives for the enlargement and freedome of trade· Especially that of cloth, and other vvoollen manufactures, engrossed at present contrary to [brace] the law of nature, the law of nations, and the lawes of this kingdome. / By a company of private men who stile themselves merchant-adventurers. The first part. Aprill. 11. 1645 Imprimatur, Na. Brent.</title>
+                  <author>Johnson, Thomas, marchant.</author>
+               </titleStmt>
+               <extent>[4], 50, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Bishop for Stephen Bowtell, and are to be sold at his shop at the signe of the Bible in Popes-Head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Johnson by Wing.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>No more published.</note>
+                  <note>Annotation on Thomason copy: "Aprill 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+               <term>Free trade --  Free trade --  Early works to 1800.</term>
+               <term>Protectionism --  Free trade --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123479:1" rendition="simple:additions"/>
+            <p>A DISCOURSE Conſiſting of MOTIVES FOR The Enlargement and Freedome OF TRADE.</p>
+            <p>
+               <hi>Eſpecially</hi> That of CLOTH, and other Woollen MANUFACTURES, <hi>Engroſſed at preſent</hi>
+               <list>
+                  <item>Contrary to the Law of <hi>Nature,</hi>
+                  </item>
+                  <item>Contrary to the Law of <hi>Nations,</hi>
+                  </item>
+                  <item>Contrary to and the Lawes of this <hi>Kingdome.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By a Company of private men who ſtile themſelves <hi>Merchant-Adventurers.</hi>
+            </p>
+            <p>The Firſt Part.</p>
+            <p>Imprimatur, NA. BRENT.</p>
+            <p>
+               <hi>April.</hi> 11. 1645</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Biſhop</hi> for <hi>Stephen Bowtell,</hi> and are to be ſold at his ſhop at the ſigne of the Bible in Popes-Head Alley. 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:123479:2"/>
+            <pb facs="tcp:123479:2"/>
+            <head>To the Right Honourable the LORDS and COMMONS in PARLIAMENT aſſembled.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſcope and ſubſtance of this following Diſcourſe, is to demon<g ref="char:EOLhyphen"/>ſtrate by clear and unanſwerable Arguments, the Illegality of the <hi>Incorporation</hi> of thoſe who ſoly aſcribe unto themſelves the names of <hi>Merchants Ad<g ref="char:EOLhyphen"/>venturers,</hi> though they Trade but unto two Townes only, and thoſe hard by: and to ſhow further how their Patent trencheth upon the native Rights of the freeborn ſubject: which Patent hath been often complaind of and cla<g ref="char:EOLhyphen"/>mord againſt from time to time, as an univer<g ref="char:EOLhyphen"/>ſall greevance to Town and Countrey, tend<g ref="char:EOLhyphen"/>ing to the diminution of Trade, and of all ſorts of Manufactures at home, and to the diſ-repute of the Policy of this Nation a<g ref="char:EOLhyphen"/>broad, the ſayd Patent being accounted no leſſe amongſt all people, then a <hi>Monopoly,</hi>
+               <pb facs="tcp:123479:3"/>a word odious all the world over. This <hi>In<g ref="char:EOLhyphen"/>corporation</hi> hath bin like an <g ref="char:V">Ʋ</g>lcer upon the Body politique of this Kingdome a long time, which hath beene often rub'd and lanc'd, yet it cloſ'd againe and gatherd more corruption then formerly, and now requires a greater cure then ever.</p>
+            <p>Therfore in all humbleneſſe it is prayed, that this Honourable Court and higheſt Councell of the Kingdom, who have already done ſo many glorious things for the publike Liberty, Rights and Immunities of the free borne Subject, would be pleaſed to peruſe the enſuing Diſ<g ref="char:EOLhyphen"/>courſe, and poiſe the weight of the Reaſons, Arguments, and proofes therein produced, which are derived from true fountaines, and ſo to doe therein what in their high wiſedome and juſtice they ſhall think expedient for the redreſſe of ſuch a Nationall grievance.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:123479:3"/>
+            <head>A DISCOURSE Conſiſting of MOTIVES FOR The Enlargement and Freedome of Trade, <hi>Especially</hi> That of CLOTH, and other Woollen Manufactures, <hi>Engroſſed at preſent</hi>
+               <list>
+                  <label>Contrary to</label>
+                  <item>
+                     <list>
+                        <item>the Law of <hi>Nature,</hi>
+                        </item>
+                        <item>the Law of <hi>Nations,</hi>
+                        </item>
+                        <item>and the Lawes of this <hi>Kingdome.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list> By a Company of private men who ſtile themſelves <hi>Merchant-Adventurers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Terreſtriall Globe in cut out into <hi>Iſlands</hi> and <hi>Continents,</hi> both which are created to be a Manſion for men; and although they be ſeverd by the work of <hi>Nature,</hi> yet they may be ſaid to be joynd together by <hi>Commerce, which is that great link of humane Society, that golden chaine which unites all Nations;</hi> And though the Earth and Sea be of them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="2" facs="tcp:123479:4"/>as differing Elements as any of the reſt, yet the Divine providence by a ſpeciall foreſight hath ſo in<g ref="char:EOLhyphen"/>dented as it were, and emboſomd them one in the other, that they make but one perfect Globe, to ren<g ref="char:EOLhyphen"/>der them thereby more apt for the mutuall Com<g ref="char:EOLhyphen"/>merce and Negotiation of Mankinde.</p>
+            <p>Of all parts of the Earth, <hi>Iſlands</hi> (which by the violence of the Sea are torne off from the reſt of the world) ſtand moſt in need of <hi>Commerce,</hi> as well for the encreaſe of ſhipping, whereon their ſecurity and ſtrength doth principally depend, as for divers other advantages conducing to wealth, to the ex<g ref="char:EOLhyphen"/>pence of the ſuperfluities of their owne native Com<g ref="char:EOLhyphen"/>modities, and the importation of forreigne, to in<g ref="char:EOLhyphen"/>telligence, and prevention of dangers, and laſtly to the improvement of civility and knowledge.</p>
+            <p>And this our Iſland (for ought any one knoweth) might have remaind to this day in her firſt ſimpli<g ref="char:EOLhyphen"/>city and rudeneſſe, had ſhe not refined and civi<g ref="char:EOLhyphen"/>lized her ſelfe by <hi>Commerce</hi> with thoſe of the next <hi>Continent,</hi> and they of the next <hi>Continent,</hi> had they not croſſed the <hi>Alps</hi> to <hi>Italy;</hi> and the Italians them<g ref="char:EOLhyphen"/>ſelves, had they not had practiſe with the <hi>Levantines,</hi> and other Eagle-eyed Nations who dwell nearer the Sun riſing.</p>
+            <p>Amongſt the Iſlands of the old world, <hi>Great Brit<g ref="char:EOLhyphen"/>tain</hi> hath beene cried up for the biggeſt, and beſt repleniſhed with thoſe Commodities that are moſt
+<pb n="3" facs="tcp:123479:4"/>materiall and uſefull for the life of man, whereof ſhe hath not only a competency for her ſelfe, but enough to ſpare her neighbours, which by way of ſurpluſage ſhe uſeth to diſperſe to moſt Countreys, whereby ſhe beates a generall Trade, and makes rich returnes with her owne home-growne goods: which Trade may bee termed <hi>the prime ſinew, and chiefeſt ſupport both of her ſtrength and riches.</hi>
+            </p>
+            <p>Now there is nothing ſo advantagious and com<g ref="char:EOLhyphen"/>mendable in a Trade, as Community and Free<g ref="char:EOLhyphen"/>dome; for in this particular (as in moſt things elſe) the <hi>topique</hi> Axiome holdeth, <hi>Bonum quò communius, cò meliùs;</hi> the more common and diffuſive a good thing is, the better it is.</p>
+            <p>The moſt ſubſtantiall and ſtaple Commodity that our Countrey affords for the maintenance of Trade is <hi>Cloth,</hi> with divers Manufactures beſides ariſing from <hi>Wooll,</hi> which makes other Nations call <hi>Wooll, Englands Golden Fleece:</hi> and (queſtion<g ref="char:EOLhyphen"/>leſſe) the principall reaſon why in time of Parlia<g ref="char:EOLhyphen"/>ment our Iudges (who are the Oracles of the Law) do ſit in the Houſe of Peeres upon Wooll-Sacks, was to put them in minde of preſerving and advancing the Trade and Manufactury of <hi>Wooll:</hi> Therefore to barre any freeborn ſubject from the exerciſe of his Invention and Induſtry, to convert this univer<g ref="char:EOLhyphen"/>ſall native Commodity to his beſt advantage at home, or abroad, is to deprive him of part of his
+<pb n="4" facs="tcp:123479:5"/>birth-right, and of that which God and Nature or<g ref="char:EOLhyphen"/>daynd for his ſubſiſtence; and not only ſo, but it is to ſet a mark of ſtrangeneſſe, or rather, of a kinde of ſlavery upon him in his own Countrey.</p>
+            <p>Hence it may well be inferrd, that for one Com<g ref="char:EOLhyphen"/>pany, or Incorporation to arrogate to it ſelfe, and to engroſſe the mannaging, expence, and vending of this neceſſary inmated Commodity, is an injury to publike right, and no leſſe then a meere <hi>Monopoly:</hi> And it is held an undoubted principle of State, that there is nothing more pernicious and deſtructive to any Kingdome or Common-wealth, then <hi>Monopo<g ref="char:EOLhyphen"/>lies,</hi> which like <hi>Incubuſſes</hi> doe ſuck the very vitall ſpirits, and drive into one veine that maſſe of blood which ſhould cheriſh the whole body: Nor doth this word <hi>Monopoly</hi> (according to its true Etimo<g ref="char:EOLhyphen"/>logy) referre only to one individuall perſon, but alſo to any one Town, where many men are incor<g ref="char:EOLhyphen"/>porated or aggregated into one body, who have hooked to themſelves the ſole exerciſe and emolu<g ref="char:EOLhyphen"/>ment of ſuch and ſuch a trade, whereby they only enrich themſelves, and admit no others to enter into their Society without ſome exaction.</p>
+            <p>The fellowſhip and Charter of them that terme themſelves <hi>Merchant-Adventurers</hi> (under favour) is a Monopoly of this kinde, and is repugnant both</p>
+            <list>
+               <item>1. To the Law of <hi>Nature,</hi>
+               </item>
+               <item>2. To the Law of <hi>Nations,</hi>
+               </item>
+               <item>3. To the poſitive Law of the <hi>Land.</hi>
+               </item>
+            </list>
+            <pb n="5" facs="tcp:123479:5"/>
+            <p>Firſt, it is repugnant to the Law of <hi>Nature,</hi> in re<g ref="char:EOLhyphen"/>gard that Wooll, and the draping and merchandi<g ref="char:EOLhyphen"/>zing thereof, being the Cape Commodity where<g ref="char:EOLhyphen"/>with Nature, <hi>the handmaid of God Almighty,</hi> hath fur<g ref="char:EOLhyphen"/>niſhed this Iſland, and wherein ſhe hath given eve<g ref="char:EOLhyphen"/>ry freeborn Inhabitant equall intereſt, as matter for his induſtry to work upon; Surely ſhe never inten<g ref="char:EOLhyphen"/>ded that a thin handfull of men, a ſmall contempti<g ref="char:EOLhyphen"/>ble number in compariſon of the whole (being but a few trading members, though their Company conſiſts of a greater number) ſhould appropriate to themſelves the diſpoſing and venting of the two thirds of this generall grand Commodity, as by di<g ref="char:EOLhyphen"/>ligent computation the <hi>Merchant-Adventurers</hi> are obſerved to doe.</p>
+            <p>Secondly, it is againſt the Law of <hi>Nations,</hi> in re<g ref="char:EOLhyphen"/>gard that no Monarchy or Kingdom, whether ele<g ref="char:EOLhyphen"/>ctive or ſucceſſive, nor any other Commonwealth or State throughout <hi>Europe</hi> hath the like example. What a hubbub would there bee in <hi>France,</hi> if the vent of Wines were paſſed over to ſome peculiar men to furniſh <hi>England</hi> withall? or in <hi>Spaine,</hi> or <hi>Na<g ref="char:EOLhyphen"/>ples,</hi> were the fruits and oyles of the one, and the ſilks of the other (being their prime Commodities) engroſſed by a few hands? But admit there were ſome extraordinary reſtraints in trading to remote Countreys, and that there were joynt ſtocks, it ma<g ref="char:EOLhyphen"/>keth nothing to juſtifie the Company of <hi>Merchant-Adventurers.</hi>
+               <pb n="6" facs="tcp:123479:6"/>We know our Eaſt-India Company<note n="*" place="margin">Which yet hath beene lately queſti<g ref="char:EOLhyphen"/>ened in Par<g ref="char:EOLhyphen"/>liament as a Monopoly, &amp; their Char<g ref="char:EOLhyphen"/>ter there diſ<g ref="char:EOLhyphen"/>claimed by themſelves at illegall.</note>here, and in <hi>Holland,</hi> have limitations, and have a Bank of their owne, becauſe the Purſes of private men cannot extend to ſet forth Ships for making of ſuch long, adventurous, coſtly, voyages. But the Trade which is beaten by our Merchant-Adventu<g ref="char:EOLhyphen"/>rers to <hi>Hamburgh</hi> and <hi>Rotterdam,</hi> is of another na<g ref="char:EOLhyphen"/>ture, for it is hard by home, and as it were at our doores, and may be performed by Ships of any ſeize, the transfretation being ſhort; ſo that thought they ſeeme to arrogate ſoly to themſelves the names of Merchant-Adventurers, there are none that deſerve it leſſe, their hazard being ſo ſmall, and their voyage ſo ſhort.</p>
+            <p>Thirdly, this Incorporation is repugnant to the poſitive Lawes of this Land, as manifeſtly appears by <hi>Magna Charta, Petition of Right, Statutes of Mo<g ref="char:EOLhyphen"/>nopolies,</hi> and ſeverall others; but for brevity ſake let it ſuffice to inſert here that famous Statute which was enacted by one of our wiſeſt Kings, <hi>Henry</hi> the ſeventh, which continueth yet in full force unrepea<g ref="char:EOLhyphen"/>led, and runnes thus.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statute">
+                        <p>
+                           <hi>Lo the diſcreet Commons in this preſent Parliament aſſembled,</hi>
+                           <note place="margin">
+                              <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>. <hi>H.</hi> 7.1.6.</note> 
+                           <hi>ſheweth unto your diſcreet wiſdomes the Merchant-Adventu<g ref="char:EOLhyphen"/>rers inhabiting and divelling in divers parts of this Realm of</hi> England <hi>out of the City of</hi>
+                           <pb n="7" facs="tcp:123479:6"/>London, <hi>that where they have their paſſage, reſort, courſe and recourſe with their goods, wares, and merchandize, in divers coaſts and parts beyond the Sea, aſwell into</hi> Spain, Por<g ref="char:EOLhyphen"/>tugall, Britain, Ireland, Normandy, France, Civill, Venice, Dansk, Eaſtland, Freezland, <hi>and other di<g ref="char:EOLhyphen"/>vers and many places, regions, and coun<g ref="char:EOLhyphen"/>treys, being in league and amity with the Kingour Soveraign Lord, there to buy and ſell, and make their Exchanges, with their ſaid goods, wares, and merchandizes, accor<g ref="char:EOLhyphen"/>ding to the Law and Euſtome uſed in every of the ſaid Regions and places; and there every perſon freely to uſe himſelfe to his moſt advantage, without exaction, fine, impoſi<g ref="char:EOLhyphen"/>tion, or contribution, to bee had or taken of them, or of any of them, to, for, or by any En<g ref="char:EOLhyphen"/>gliſh perſon, or perſons. And in ſemblable wiſe they before this time have had, uſed, and of right owen to have, and uſe their free paſſage, reſort, and recourſe into the coaſts of</hi> Flanders, Holland, Zealand, Brabant, <hi>and other places thereto nigh adjoyning under the o<g ref="char:EOLhyphen"/>beyſance of the Arch Duke of</hi> Burgoyn: <hi>In which places the univerſall Marts be com<g ref="char:EOLhyphen"/>monly kept and holden foure times in the year, to the which Marts all Engliſh men, and divers other Nations in time paſt have
+<pb n="8" facs="tcp:123479:7"/>uſed to reſort, there to ſell and utter the commodities of their Countreys, and freely to buy again ſuch things as ſeemed them moſt neceſſary and expedient for their pofit, and weale of their Countreys, and parts that they be come fro, till now of late, that by the Fellowſhip of the Mercers and other Mer<g ref="char:EOLhyphen"/>chants and Adventurers dwelling and being free within the City of</hi> London, <hi>by confederacy made among themſelves, of their unchari<g ref="char:EOLhyphen"/>table and inordinate covetouſneſſe, for their ſingular profit and lucre, contrary to every Engliſh mans Liberty, and to the Liberty of the ſaid Mart there, which is, that every perſon of what Nation that he be of, ſhould have their free liberty there to buy and ſell, and make the commutations with the Wares, Goods, and Merchandizes at their pleaſure, have contrary to all Law, Reaſon, Charity, Right, and Conſcience, amongſt themſelves, to the prejudice of all Engliſh men, made an Ordinance and Conſtitution, that is to ſay, That no Engliſh man reſort<g ref="char:EOLhyphen"/>ing to the ſaid Mart, ſhall neither buy nor ſell any goods, wares, or merchandizes there, except he firſt compound and make fine with the ſaid Fellowſhip, Merchants of</hi> London, <hi>and their ſaid Confederates, at their pleaſure,
+<pb n="9" facs="tcp:123479:7"/>upon paine of forfeiture to the ſaid Fellow<g ref="char:EOLhyphen"/>ſhip, Merchants of</hi> London, <hi>and to their Con<g ref="char:EOLhyphen"/>federates, of ſuch merchandizes, goods, or wares, ſo by him bought, or ſaid there: which Fine, Impoſition, and Exacion, at the beginning when it was firſt taken, was de<g ref="char:EOLhyphen"/>manded by colour of Fraternity of</hi> Thomas Becket <hi>Biſhop of</hi> Canterbury, <hi>at which time the ſaid Fine was but the value of an old No<g ref="char:EOLhyphen"/>ble ſterling, and ſo by colour of ſuch feigned holineſſe, it hath beene ſuffered to be taken for a few yeares paſſed, and afterwards it was encreaſed to an hundred ſhillings Fle<g ref="char:EOLhyphen"/>miſh, and now it is ſo, that the ſaid Fellow<g ref="char:EOLhyphen"/>ſhip and Merchants of</hi> London <hi>take of every Engliſh man, or yong Merchant, being there at his firſt comming, forty pound ſterling for a fine, to ſuffer him to buy and ſell his owne proper Goods, wares, and Merchandizes that he hath there: By occaſion whereof, all Merchants, not being of the ſaid Fellowſhip and Confederacy, withdraw themſelves from the ſaid Marts, whereby the woollen Cloth of the Realm, which is one of the grea<g ref="char:EOLhyphen"/>teſt Commodities of the ſame, by making whereof the Kings true Subjects be put in occupation, and the poore people have moſt their living, and alſo other divers Commo<g ref="char:EOLhyphen"/>dities
+<pb n="10" facs="tcp:123479:8"/>of divers and ſeverall parts of this ſame Realm is not ſold ne uttered as it was in times paſt, but for lack of utterance of the ſame in divers parts, where ſuch Clothes be made, they be conveyed to</hi> London, <hi>where they be ſold farre under the price that they be worth, and that they coſt to the makers of the ſame, and at ſometime they be lent to long dayes, and the money thereof at divers times never paid; And over that, the Com<g ref="char:EOLhyphen"/>modities and Merchandizes of thoſe parts, which the ſaid Fellowſhip, Merchants of</hi> London, <hi>and others their Confederates bring into this Land, is ſo ſaid to your ſaid Com<g ref="char:EOLhyphen"/>plainants and other the Kings true Sub<g ref="char:EOLhyphen"/>jects, at ſo deare and high exceeding pr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>e, that the buyer of the ſame cannot live there<g ref="char:EOLhyphen"/>upon, by reaſon whereof, all the Cities, Towns, and Burroughs of this Realme in effect be fallen into great poverty, ruine, and decay, and as now in manner they without hope of comfort, or reliefe, and the Kings Cuſtomes and Subſidies, and the Navy of the Land greatly decreaſed and miniſhed, and daily they be like more to decay, if out reformation be not had in this behalfe. Be it therefore enacted by the King our Sove<g ref="char:EOLhyphen"/>raigne Lord, by the adviſe and aſſent of the
+<pb n="11" facs="tcp:123479:8"/>Lords ſpirituall and temporall, and the Commons in this preſent Parliament aſ<g ref="char:EOLhyphen"/>ſembled, and by authority of the fame, that every Engliſh man, being the Kings true Leigeman, from henceforth have free paſ<g ref="char:EOLhyphen"/>ſage, reſort, courſe and recourſe into the ſaid coaſts of</hi> Flanders, Holland, Zealand, Brabant, <hi>and other places thereto nigh adjoyning, un<g ref="char:EOLhyphen"/>der the obeyſance of the ſaid Archduke, to the Marts there her eaſter to he holden, with his or their Merchandizes, Goods, and wares, there to buy and ſell, and make their ex<g ref="char:EOLhyphen"/>change freely at his or their pleaſure, with<g ref="char:EOLhyphen"/>out exaction, fine, impoſition, extortion, or contribution to be had, leavied, taken, or per<g ref="char:EOLhyphen"/>ceived of them, or of any of them, to, for, or by any Engliſh perſon or perſons to his or their own uſe. or to the uſe of the ſaid Fraternity of Fellowſhip, or of any other like, except only of ten Mark ſterling. And that no per<g ref="char:EOLhyphen"/>ſon Engliſh, as is afore rehearſed, hereafter take to his own uſe, or to the uſe of the ſaid Fraternity or Fellowſhip thereof, any other Engliſh perſon of what eſtate, degree, or con<g ref="char:EOLhyphen"/>dition that he be of, ſo alway that he be the King our Soveraigne Lords true Leige<g ref="char:EOLhyphen"/>man, any fine, exaction, impoſition, or con<g ref="char:EOLhyphen"/>tribution for his liberty or freedome to buy
+<pb n="12" facs="tcp:123479:9"/>and ſell Goods, wares, or Merchandizes in or at any of the ſaid Marts, more or above the ſaid ſumme of ten Mark ſterling only, upon paine of forfeiture to our Soveraigne Lord for every time that he doth the con<g ref="char:EOLhyphen"/>trary of this Act</hi> 20. <abbr>l.</abbr> 
+                           <hi>and alſo to forfeit to the parties ſo grieved in this behalfe tenne times ſo much as he contrary to this pre<g ref="char:EOLhyphen"/>ſent Act, taketh of him: And that the parties ſo aggrieved ſhall have in this behalfe an Action of debt for the ſaid forfeiture of tenne times, in any of the Kings Courts within this Realm by writ, Bill, Plaint, or Infor<g ref="char:EOLhyphen"/>mation, and ſuch proceſſe to be made in the ſame, as is or ought to be made in or upon an Action of debt at the Common Law, and the triall thereof to be had in ſuch Shire, City, or Place, where the ſaid Action is com<g ref="char:EOLhyphen"/>menced or ſued; and that the Defendant in any Action bee not admitted to wage his Law, nor none Eſſoine or Protection be for ſuch Defendant admitted or allowed in that behalfe.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Act of Parliament is in full force and validity to this day; for there is none can deny, that <hi>the ver<g ref="char:EOLhyphen"/>tue of an Act of Parliament is ſuch, that no Power can repeale or abrogate it, but the ſame Legiſlative Power that made it.</hi> now that a private Charter procured by
+<pb n="13" facs="tcp:123479:9"/>gratuities, favour, and other clandeſtine wayes (as ſhall be proved) ſhould have power to ſuſpend and ſtop the execution of an Act of Parliament, we be<g ref="char:EOLhyphen"/>leeve no Iudge in the Land will affirme, eſpecially conſidering that this Charter doth authorize a few men to exerciſe both at home and abroad an extra<g ref="char:EOLhyphen"/>judiciall ſway both over the conſciences, the bo<g ref="char:EOLhyphen"/>dies, and eſtates of his Majeſties leige people, by oathes, impriſonments, amercements, and taxes.</p>
+            <p>Touching the Oath they uſe to impoſe, it runs thus, being couched in this odde forme.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>YOu ſweare by Almighty God, to be good and true to our Soveraign Lord the King that now is, and to his Heires, and Succeſſours, Kings of this Realme. You ſhall be obedient and aſsiſtant to M<hi rend="sup">r</hi> Governour or his Deputy, and Aſsiſtants of Merchant-Adventurers in the parts of <hi>Holland, Zea<g ref="char:EOLhyphen"/>land, Brabant, Flanders,</hi> and within the Townes and Mar<g ref="char:EOLhyphen"/>ches of <hi>Calais,</hi> as alſo in <hi>Eaſt Freezland,</hi> or any other Coun<g ref="char:EOLhyphen"/>trey or place on this or that ſide the ſeas, where the ſaid Company are or ſhall be priviledged. All States and Ordinances not repealed, which have beene made, or ſhall he made by the ſaid Governour, or his Deputy and Fellow<g ref="char:EOLhyphen"/>ſhip you ſhall to your beſt knowledge truly bold, and keep no ſingular regard to your ſelfe in hurt or prejudice of the Com<g ref="char:EOLhyphen"/>mon wealth of the ſaid Fellowſhip, or elſe being condemned, and or derly demanded, ſhall truly from time to time content
+<pb n="14" facs="tcp:123479:10"/>and pay unto the Treaſurer for the time being, all and every ſuch mulcts and penalties which have and ſhall be limited and ſet for the tranſgreſſors and offenders of the ſame. The ſecrets and privities of the aforeſaid Fellowſhip you ſhall heal, and not bewray: and if you ſhall know any perſon or perſons that intend any hurt, harme, or prejudice to our So<g ref="char:EOLhyphen"/>veraigne Lord the King, or unto his Lands, or to the Fellow<g ref="char:EOLhyphen"/>ſhip aforeſaid, or the priviledges of the ſame, you ſhall give knowledge thereof, and doe it to be knowne to the ſaid Go<g ref="char:EOLhyphen"/>vernour or his Deputy. And you ſhall not colour or free any Forreigners goods, which are not free of this Fellowſhip of Merchant-Adventurers of England. So help you God.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By the words of this extravagant Oath, one may ſee what high, illegall and tranſcendent power they aſſume to themſelves to make Statutes, which is <hi>proper and peculiar only to Parliaments:</hi> Moreover, they ſtile themſelves a Commonwealth, in ſo much that though they cannot be termed <hi>Regnum in Regno,</hi> they may be well termed <hi>Dominium in Dominio.</hi> Beſides this Oath there is another called the <hi>purging</hi> Oath, whereby one is bound to confeſſe whether he hath offended in ſuch and ſuch particulars, and to accuſe himſelfe, which is point blank againſt Law, being a thing abhorring to nature; and for which, kinde of Oath ſome of our Courts were lately put down by this preſent Parliament; and touching their Impoſi<g ref="char:EOLhyphen"/>tions
+<pb n="15" facs="tcp:123479:10"/>and Fines, they lay them <hi>ad libitum,</hi> which they convert afterwards to their owne benefit, whereas the King <hi>de jure</hi> partakes of all Fines: but they paſ<g ref="char:EOLhyphen"/>ſed an Order, by which (to uſe their owne words) they were pleaſed to allow him the one moity; The true copy of which Order ſhall be inſerted here with others, by which one may gueſſe at the reſt.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden March 4. 1603.</head>
+                        <p>THe Brethren of this Company aſſembled together, doe bold it very requiſite, for the better carriage of their Trade, that ſuite ſhould be made unto the Kings Majeſty, by the meanes of my Lord Chancellor to be perferred, that in the confirmation of the Companies Charters of Priviledges, this alſo might be added and inſerted, that the Company, in their Courts as well in <hi>England</hi> as beyond the Seas to bee holden, may impoſe reaſonable fines and penalties upon ſuch Subiects of this Realme, not free of this Company, that ſhall ſhip Woollen Commodities into the Countreys and Places where they are priviledged, thereby to cauſe ſuch intruding subiects to deſiſt from that trade, which properly appertains to the Company of Adventurers. In conſideration whereof, and in hope of the more favour in ſome other ſuites they meane to move hereafter, they are pleaſed that the Kings Maieſty may have and receive the one moity of all ſuch fines and penalties as ſhall be impoſed upon ſuch intruders; and
+<pb n="16" facs="tcp:123479:11"/>further they agreed to yeeld to his Maieſty, in reſpect afore<g ref="char:EOLhyphen"/>ſaid, an anuuall Rent of <hi>50. <abbr>l.</abbr>
+                           </hi> or <hi>100</hi> Marks <hi>per annum.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>As before by the recited Act, ſo likewiſe by this order it appeares that Merchants would not ſubmit nor come into their Companie (as they had juſt cauſe ſo to doe) therefore ſuit muſt be made to ſup<g ref="char:EOLhyphen"/>preſſe them, but the illegall power which the Com<g ref="char:EOLhyphen"/>panie uſed, begat a Petition for free Trade in Parlia<g ref="char:EOLhyphen"/>ment againſt the Companie, in <hi>Anno</hi> 1606, which was judged in that Supreme Court ſo juſt and right, that there paſſed a Bill for a generall libertie of trade, with great applauſe of the Houſe, ſcarce fortie diſ<g ref="char:EOLhyphen"/>ſenting from it. But the Companie finding that the ſaid Bill would have diſſolved their Patent, they made a croſſe preſumptuous Order, which for that they have dared to doe, they may be truly termed <hi>Adventurous Merchants.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden April 5. 1606.</head>
+                        <p>THe Bill of generall liberty of Trade was now read, and this Court hath conſented that learned Councell ſhall be entertained, and the enormities of the Bill laid open, with a manifeſtation of the neceſsity of a government in Trade. It is alſo further agreed, that all reaſonable charges ex<g ref="char:EOLhyphen"/>pended about the croſsing of that Bill ſhall be defrayed by the Treaſurer here.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="17" facs="tcp:123479:11"/>
+            <p>The tranſcript of this oath and orders were truly extracted out of their owne Regiſter, and is concor<g ref="char:EOLhyphen"/>dant with the originall. Touching the firſt, which is a kinde of oath of allegiance unto them, and hath touched the conſciences of ſome, it is worth the ob<g ref="char:EOLhyphen"/>ſerving how they mention a power they have to make Statutes, and it is proper for them ſo to doe, if they be a <hi>Commonwealth,</hi> as they terme themſelves in the ſame Oath. And for the orders by theſe and the following, one may finde upon what a tottering foundation their Charter ſtands, and by what indi<g ref="char:EOLhyphen"/>rect meanes they ſupport it, being borne by ſtrength of Purſe and Court Donatives, which in true Eng<g ref="char:EOLhyphen"/>liſh are but <hi>complementall bribes,</hi> which dare not ap<g ref="char:EOLhyphen"/>peare among their publique accompts, as is obvi<g ref="char:EOLhyphen"/>ous by the following order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden Decemb. 23. 1622.</head>
+                        <p>ACcording to the Order of the generall Court, this day they tooke into conſideration the buſineſſe of the Ac<g ref="char:EOLhyphen"/>compt required by the Commiſsioners, which this Court con<g ref="char:EOLhyphen"/>ceiving to be a matter that may concerne divert occaſions preſented with gratuities: It is not thought meet to give any ſuch accompt as may any way touch the ſaid great Per<g ref="char:EOLhyphen"/>ſonages, but rather to a void the accompt by ſome good cour<g ref="char:EOLhyphen"/>ſes, to which end it is agreed that Maſter Governour and
+<pb n="18" facs="tcp:123479:12"/>Maſter Deputy, or one of them, doe take ſome ſuch courſe as they ſhall thinke convenient.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden Novemb. 16. 1623.</head>
+                        <p>THe Court had conſideration according to the ſeaſon of the yeare, of their yearly preſents to ſuch Honourable Perſonages as they have received favours from; and firſt foraſmuch as they have beene extraordinarily bound to the favours of the Lord Treaſurer, the remembrance is now to be enlarged at Newyeares tide, and that they ſhall preſent his Lordſhip with <hi>200.</hi> peeces of <hi>22. <abbr>s.</abbr>
+                           </hi> in gold, and a peece of Plate, as an acknowledgement of his Lordſhips ſpeciall favours.</p>
+                        <p>Moreover, to the Lord Duke of Buckingham.</p>
+                        <list>
+                           <item>To the Archbiſhop of Canterbury.</item>
+                           <item>To the Lord Treaſurer.</item>
+                           <item>To the Lord Keeper.</item>
+                           <item>To the Lord Preſident.</item>
+                           <item>To M<hi rend="sup">r</hi>. Secretary Calvert.</item>
+                           <item>To M<hi rend="sup">r</hi>. Comptroller, &amp;c.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Having made it apparent by the premiſſes how this fraternity of Ingroſſers is repugnant to all Laws both of Nature, of Nations, and of thoſe of this King<g ref="char:EOLhyphen"/>dome, as not being able to produce any municipall right thereunto; it remaines now to prove further, that this ſelfe-enriching ſociety derogates from the repute and honors of the Engliſh Nation abroad,
+<pb n="19" facs="tcp:123479:12"/>for they are eſteemed (as indeed they are) no other then a Monopoly, which being odious every where makes them loſe both love and reſpect as well in <hi>Germany</hi> as the <hi>Netherlands,</hi> for though they enjoy ſome immunities where they come for their diet and lodging, it is not for any love unto them, but for the encreaſe of Cuſtomes and other advantages they bring along with them to that particular place. And it is obſerved, that they ſetled themſelves no where yet, but there hath beene jarring betwixt them and the Towne at laſt, which hath made them remove their Tents ſo oft, and ſhift from place to place: be<g ref="char:EOLhyphen"/>ſides there is commonly ill blood bred, and matter of conteſtation and envie betwixt that Town where they ſeat themſelves, and other circumjacent Towns, as happened of late yeares betwixt <hi>Rotterdam</hi> and <hi>Amſterdam.</hi> Out of the precedent diſcourſe and the circumſtances thereof, this Inference doth neceſſa<g ref="char:EOLhyphen"/>rily follow, That the Company of thoſe who ſtile themſelves Merchants Adventurers <hi>(in ſtatu quo nunc)</hi> take them in the condition they are now in, is not on<g ref="char:EOLhyphen"/>ly againſt the hereditary priviledges, but alſo a preſ<g ref="char:EOLhyphen"/>ſure and a grievance of a high nature to the free<g ref="char:EOLhyphen"/>borne Subjects of this Realme of England. But in regard it is a common laying, that <hi>one tale is good till the other be told,</hi> let us examine and anſwer the argu<g ref="char:EOLhyphen"/>ments they produce for their owne vindication and defence.</p>
+            <pb n="20" facs="tcp:123479:13"/>
+            <list>
+               <head>The Arguments which the Merchants Adventurers alledge for their juſtifi<g ref="char:EOLhyphen"/>cation, may be all reduced to theſe three heads.</head>
+               <item>Firſt, they cry up the <hi>Antiquity</hi> of their Company.</item>
+               <item>Secondly, the <hi>Ability</hi> of it.</item>
+               <item>Thirdly, the <hi>Neceſsity</hi> of it.</item>
+            </list>
+            <p n="1">1. Touching the Antiquity thereof, they affirme their Charter to have beene granted them above 250. yeares paſt.</p>
+            <p n="2">2. Touching their Ability, they alledge that they are of ſufficient wealth to take up and buy all the White Clothes yearly made in this Realme for rea<g ref="char:EOLhyphen"/>die money; therefore there is no need to have a grea<g ref="char:EOLhyphen"/>ter number added to them.</p>
+            <p n="3">3. Touching the neceſſitie of their Company, they declare how by meanes of the ſame, and by their diſcreet government, the commodities iſſuing from Wooll have beene highly advanced, alledging that Clothes in the time of King <hi>H</hi> 7. being worth but 3. <abbr>l.</abbr> are now ſold for twice as much. Moreover they ſay, that if libertie ſhould be granted every man to trade as he preaſeth, the unskilfulneſſe of the tra<g ref="char:EOLhyphen"/>ders meeting with the ſubtiltie of the people with whom they are to deale, great loſſe would enſue thereby to the Subjects of this Kingdome, beſides the confuſion that would inevitably follow.</p>
+            <pb n="21" facs="tcp:123479:13"/>
+            <p>To the firſt of theſe concerning their Antiqui<g ref="char:EOLhyphen"/>tie it is anſwered, that</p>
+            <p>As it is a rule in Divinitie, that <hi>Preſcription cannot priviledge an errour,</hi> no more can it doe in civill go<g ref="char:EOLhyphen"/>vernment. It is true, when <hi>Edw.</hi> 3. by his extraordi<g ref="char:EOLhyphen"/>narie wiſedome had procured Cloth to be made ſo plentifully within this Realme, he incited and ſtir<g ref="char:EOLhyphen"/>red up his ſubjects to the venting of thoſe Clothes by tranſportation of them to forraine parts, whereby he granted them many favours: and <hi>Henry</hi> the fourth erected them to a Company that went by the name of a Brotherhood of <hi>Tho: Becket,</hi> Bp. of <hi>Cant.</hi> yet with this proviſo, that any man paying the Haunce of an old Noble might freely conſort and trade with them. But in the reigne of <hi>Henry</hi> the ſeventh the ſaid Companie out of ſelf-love and deſire of lucre ſought to appropriate the ſaid priviledges ſo granted to all ſoly unto themſelves, and attempted to exclude their Neighbours and Countrimen from the bene<g ref="char:EOLhyphen"/>fit of that trade, contrarie to the freedome and or<g ref="char:EOLhyphen"/>ders of all Mart Townes, which being complained of in Parliament, that famous Statute before inſerted was made by that wiſe Legiſlator <hi>Henry</hi> the ſeventh; whence if one looke backward, he will finde that they cannot plead above 100. yeares antiquitie.</p>
+            <p>The <hi>Staplers</hi> were far more ancient, yet we know to what a reformation they ſubmitted themſelves; beſides, <hi>in the carriage of all mundane affaires, the quality
+<pb n="22" facs="tcp:123479:14"/>of the times, and the face of things doe alter ever and anon.</hi> Thoſe Immunities which were granted in the Infan<g ref="char:EOLhyphen"/>cy of trade, to incite people to the encreaſe and im<g ref="char:EOLhyphen"/>provement of it, are not ſo proper for theſe times, when the Trade is come to that heigth of perfection, and that the myſtery of it is ſo well known: and it is daily found by experience, that what was good and profitable to a State, by the alteration of times be<g ref="char:EOLhyphen"/>comes prejudiciall; as for inſtance, it was lawfull for the Company of staplers to tranſport Woolls, but when we attained to the knowledge of making Cloth, it was not good, and therefore prohibited.</p>
+            <p>Touching the ſecond allegation, that their ability can extend to buy and vend all the Clothes that are made yearly. For the firſt part of this Argument that concernes their ability, it is too well known by what extrajudiciall, and monopolizing wayes they have thus enabled themſelves to ſwallow up the market; for it hath beene by a conſtant engroſſing of the Trade ſo many yeares, to the impoveriſhing and prejudice of their fellow Subjects, and to the feathering only of their owne neſts. The ſtrength of a Kingdome conſiſts in the riches of many Sub<g ref="char:EOLhyphen"/>jects, not of a few, in ſo much that were this Trade enlarged, it would tend to the multiplying of able and wealthy Merchants, it would diſperſe it to a greater latitude, and further ennobling the Trade, and prevent the encreaſe of poore men and beggars
+<pb n="23" facs="tcp:123479:14"/>up and downe the Land: for it is one of the maine reaſons why there are fewer beggars ſeene in Com<g ref="char:EOLhyphen"/>monwealths then in Kingdoms, becauſe of commu<g ref="char:EOLhyphen"/>nity and freedome of trading, by which meanes the wealth of the Land is more equally diſtributed a<g ref="char:EOLhyphen"/>mongſt the Natives. But ſuppoſe they be able to buy all the Clothes, is it not againſt common rea<g ref="char:EOLhyphen"/>ſon, and the Subjects birth-right, that therefore they ſhould be permitted ſo to doe and others debard.</p>
+            <p>Concerning the neceſſity of this Incorporation, it is enforced by a twofold reaſon.</p>
+            <p>Firſt, they pretend that the ſale of our Manufa<g ref="char:EOLhyphen"/>ctures is more advanced, and the eſteeme and price thereof borne up by their guidance and govern<g ref="char:EOLhyphen"/>ment, which is now double from what it was.</p>
+            <p>For anſwer, it is true that the rates of our woollen Commodities, as of all other ſorts of Merchandize, are much raiſed from what they were, but this is an act of time, as in all other Countreys where Trade is free, in ſo long a tract of time, the prizes of all things change, eſpecially ſince the diſcovery of the Weſt-Indian Mines, which have ſo exceedingly encreaſed the plenty of money through all parts of <hi>Europe.</hi>
+            </p>
+            <p>There be divers other reaſons why the rates are raiſed, as the alteration of value in Coines and ex<g ref="char:EOLhyphen"/>changes. Secondly the raiſing of Rents. Thirdly the endearment of victuals, which riſe ſtill with the
+<pb n="24" facs="tcp:123479:15"/>encreaſe of people. And laſtly the chiefe reaſon is, becauſe there hath beene ſuch vent for our Cloth abroad, and that is the maine cauſe why our Cloth and other woollen Commodities are ſo much riſen; but grant the Company beare up the prices of com<g ref="char:EOLhyphen"/>modities abroad, may they not by the ſame power and policy keep up the prices of forreign commodi<g ref="char:EOLhyphen"/>ties at home, by which meanes the Kingdome ſuf<g ref="char:EOLhyphen"/>fers both wayes?</p>
+            <p>Secondly they ſay, that if Trade were free, all would ſuddenly fall to decay, both Merchant and Clothier would be beaten out of trade by the Dutch; for if our Merchants who tranſport Cloth were not ordered by the Company, they would ſend ſuch a<g ref="char:EOLhyphen"/>bundance into all parts, as they would not be able to gaine thereby: and ſo the Merchant would be diſ<g ref="char:EOLhyphen"/>couraged to ſend any more, or if he doe ſend he will be ſure to give the Clothier every time leſſe for his Cloth, ſo that the Clothier nor Merchant will bee able to live by it; and by this overclogging of the market, our Cloth will be brought into diſ-eſteeme and not ſo regarded, as it is now by this Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>This Objection at firſt ſight carrieth a ſpecious ſhew, but if it be caſt into the ballance of truth, it will beare no weight at all, it is rather a conceit then an Argument, for they cannot prove it by any act
+<pb n="25" facs="tcp:123479:15"/>of experience, only they imagine ſuch a thing. It is confeſſed that regularity and government is com<g ref="char:EOLhyphen"/>mendable in all things, otherwiſe diſorders and a promiſcuous kinde of confuſion will follow. The French and Spaniſh Companies ſang the ſame note before <hi>Tertio Iacobi</hi> when they were diſſolved. There bee generall Lawes to regulate trade, and to preſerve it from confuſion; we deſire ſtill a govern<g ref="char:EOLhyphen"/>ment, but not a Monopoly, that ſo few ſhould en<g ref="char:EOLhyphen"/>groſſe the whole maſſe and bulke of the prime trade of England to two Townes only. Trade (though the compariſon be homely) is like Dung, which being cloſe kept in a heap or two ſtinks, but being ſpread abroad, it doth fertilize the earth and make it fructifie; nor need we any forraign hands to ſpread it, wee have enough of our owne were they permitted. Touching the over-glutting of the mar<g ref="char:EOLhyphen"/>ket, it might well fall out, that if free Traders were confind to two Towns only, they would peradven<g ref="char:EOLhyphen"/>ture ſurcharge them, but having the choice of ſo many Ports, and ſuch a variety of places, there is no ſuch feare of a glut. As touching the eſteeme and rates of our Cloth, which they pretend would bee prejudiced, let them know, that it is not the high price but plenty that propagates Trade; and for the high rates of our Cloth, we may impute that not ſo much to their Government, as the policy of the Dutch themſelves, who to make Dutch Cloth more vendible, hoiſe up the price of ours, and that
+<pb n="26" facs="tcp:123479:16"/>our Cloth and other woollen Commodities are endeared by the Company here, ſhall be proved afterwards.</p>
+            <p>There are two main things that conduce to make a trade flouriſh, <hi>plenty of Merchandize</hi> and <hi>multitude of Merchants.</hi> Now it can be proved that in the yeare 1633, before that ſtrict Proclamation for reſtraint came out, there were neere upon 600 Traders in thoſe commodities: and in the yeare 1639 not above 180; and in <hi>Holland</hi> before that Proclamation when they made moſt, they made not above two thouſand Clothes yearly, but ſince they have made ſome yeares twentie thouſand, and they fell alſo to the making of <hi>Perpetuanoes,</hi> which they had never done before; ſo that trade is inſenſibly ſtolen away form us, our workmen by hundreds doing over to ſet up their manufactures in other Countries, becauſe they were diſcouraged to exerciſe their ingenuitie at home, and have freedome to make away to their beſt advantage any new-faſhioned ſtuffe, by reaſon of the ſaid Proclamation of reſtraint, whereat there was much diſcontentment abroad, as wel as at home, for <hi>Amſterdam</hi> and other Townes did ſtomach ex<g ref="char:EOLhyphen"/>tremely, that his <hi>Majeſtie of Great Britaine</hi> ſhould ex<g ref="char:EOLhyphen"/>clude them, and that <hi>Rotterdam</hi> ſhould be only pri<g ref="char:EOLhyphen"/>viledged to be Miſtris of the Trade.</p>
+            <p>But they ſeeme to object further, that ſuch a gene<g ref="char:EOLhyphen"/>rall freedome of trade might give libertie to become
+<pb n="27" facs="tcp:123479:16"/>Merchants without an apprenticeſhip, which is an injurie to them that have ſerved, and may hurt them who have not ſerved, who adventuring unskilfully ſhall be ſure of loſſe.</p>
+            <p>It is anſwered, that the loſſe of the new Merchant may be conceived to be more the hopes then the feares of this Companie. They that have ſerved have the advantage of knowledge and skill for their time and moneys. And touching capacity and skill it might be urged, that by the ſame reaſon young Gen<g ref="char:EOLhyphen"/>tlemen ſhould be kept from their ſands for want of experience to manure them. But touching appren<g ref="char:EOLhyphen"/>tices, it is not the leaſt abuſe amongſt them, that ta<g ref="char:EOLhyphen"/>king ſuch a conſiderable ſumme, as two or three hundred pounds with ſome, it makes the maſters leſſe careful to expect duty from them, and it makes the Apprentice more preſumptuous, and take grea<g ref="char:EOLhyphen"/>ter liberty. And on the other ſide we hope it will appeare, that were there a freedome of trade per<g ref="char:EOLhyphen"/>mitted and publiſhed for <hi>Holland, Zealand, Flanders, Brabant, Eaſt Freezland, Weſt Freezland, Hamburgh, and the territories of the ſame, and into all Germany,</hi> it would not only be a great benefit to this Kingdome in generall, but alſo an extraordinary incourage<g ref="char:EOLhyphen"/>ment to all active and induſtrious ſpirits, to ſeeke more Ports, and make quicker returns, and wind the penny ſooner; whereas the affections of many are now dampt, becauſe they muſt be ſubject to the
+<pb n="28" facs="tcp:123479:17"/>Company in a ſervile kinde of obedience, and are il<g ref="char:EOLhyphen"/>legally ſworne to obey all their <hi>unjuſt and unorderly Orders,</hi> whereof we ſhall here inſert a few.</p>
+            <p>Firſt, let us take notice of the <hi>Taxes</hi> and <hi>Impoſi<g ref="char:EOLhyphen"/>tions,</hi> which the Merchants Adventurers doe lay or leavie upon all Woollen commodities which they tranſport, viz.</p>
+            <list>
+               <item>All Loner white Clothes pay per Cloth —4 <abbr>s.</abbr> 6. <abbr>d.</abbr>
+               </item>
+               <item>Short white Clothes per Cloth—3. 0.</item>
+               <item>Loner coloured clothes Saffron, Kentiſh and Redding per Cloth —2. 0.</item>
+               <item>Clothes died &amp; dreſt forth of Whites per colour 2. 0.</item>
+               <item>Plunkets — 2. 3.</item>
+               <item>Clothes died and dreſſed of Spaniſh making.— 2. 0.</item>
+               <item>Kerſeys cont — 0. 6.</item>
+               <item>Elbroad Perpetuanoes per peece —0. 6.</item>
+               <item>Yardbroad Perpetuanoes-— 0. 4.0b</item>
+               <item>Double Bayes — 0. 9.</item>
+               <item>Single Bayes — 0. 4.0b</item>
+               <item>Devons dozens ſingle— 0. 4.0b</item>
+               <item>Northerne dozens double—0. 9.</item>
+               <item>Northerne dozens ſingle—0. 4.0b</item>
+               <item>Short Worſted hoſe for men pay per dozen—0. 4.0b</item>
+               <item>Long Worſted hoſe—0. 6.</item>
+               <item>Woollen hoſe for men—0. 5.</item>
+               <item>Woollen hoſe for children — 0. 1.0b</item>
+               <pb n="29" facs="tcp:123479:17"/>
+               <item>Short Kerſey ſtockings —0. 1.0b</item>
+               <item>Long Kerſey ſtockings—0. 6.</item>
+               <item>Meniking bays and Friz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>does per peece —0. 1.0b</item>
+               <item>Buffins narrow, Moccadoes, and Norwich Grograns per peece—0. 1.0b</item>
+               <item>Buffins broad Philip and Cheaney —0. 2.q.</item>
+               <item>Carols of Norwich making —0. 1.0b</item>
+               <item>Buffins double—0. 4.0b</item>
+               <item>Cottons the hundred goads — 0. 9.</item>
+               <item>Double Durances and Cameleons—0. 5.</item>
+               <item>Single of the ſame cont: 14 yards. —0. 2.0b</item>
+               <item>Flannell the hundred yards—0. 7.0b</item>
+               <item>Freezes—0. 9.</item>
+               <item>Venetian Fuſtians—0. 3.</item>
+               <item>Parogans of Norwich mixt and plaine —0. 4.0b</item>
+               <item>Pyramides and Floramides —0. 2.q</item>
+               <item>Porops Damoſolos, broad Damas—0. 6.</item>
+               <item>Middles Sayes broad—0. 9.</item>
+               <item>Narrow—0. 4.0b</item>
+               <item>Narrow Linſey Woolſey dreſt the hundred yards—0. 5.</item>
+               <item>Cloth Raſhes broad per peece—0. 9.</item>
+               <item>Narrow—0. 4 ob</item>
+            </list>
+            <p>Now it muſt be confeſt that theſe taxes do endear the goods, and therefore the Company cannot af<g ref="char:EOLhyphen"/>ford as cheap as other Merchants might doe.</p>
+            <p>Secondly, their order for <hi>ſtinting</hi> or <hi>limiting</hi> their
+<pb n="30" facs="tcp:123479:18"/>members to tranſport but a certaine quantitie of Cloth, runs thus.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden Octob. 11. 1606.</head>
+                        <p>Letters from the Brethren of Middleburgh of the fourth of October <hi>1606.</hi> were now made publique, they give knowledge that they have agreed to the augmentation of the generall ſtint, and of the yearly and monethly number of Clothes to be ſhipped out upon the free licence, referring us to the ſpecification of every mans proportion of ſtint ſent with their letters, and now read; which proportion of ſtint all the trading Brethren are enjoyned not to exceed within the compaſſe of any one year, upon the penalty of <hi>40. <abbr>s.</abbr>
+                           </hi> per Cloth. And to prevent abuſe, they ordaine every Brother that ſhall ſhip any woollen commodity, ſhall be yearly pur<g ref="char:EOLhyphen"/>ged upon his oath, the forme whereof was now ſent and read alſo: and in caſe any ſhould refuſe or neglect to take the ſaid Oath by the last day of Auguſt every yeare, then be to pay <hi>20.</hi> pound ſterling, and to have no benefit of the free Li<g ref="char:EOLhyphen"/>cence till he hath taken the ſaid Oath.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Much might be ſaid of this ſtinting Order, but we ſhall ſay but little for brevitie ſake: how preju<g ref="char:EOLhyphen"/>diciall it is for any man to be ſtinted that would trade more freely if he were permitted, is beſt known to the members of that Company, and what an in<g ref="char:EOLhyphen"/>jury it is to the <hi>Clothiers,</hi> their Petitions depending in this <hi>Parliament</hi> can ſufficiently witneſſe.</p>
+            <pb n="31" facs="tcp:123479:18"/>
+            <p>Thirdly, their order for ſhipping in no other ſhips then the <hi>Companies Ships,</hi> the ſubſtance of which Order is as followeth, viz.</p>
+            <p>27. <hi>April</hi> 1605. <hi>reſtraint of ſhipping but onely in two ſhips, upon paine of forfeiture of</hi> 40. <abbr>s.</abbr> 
+               <hi>per Cloth.</hi>
+            </p>
+            <p>
+               <hi>Orders of ſtint revived, and no newes to be ſent over of any more Cloth to be ſent till hereafter, and men ſhould forbeare wholly ſhipping for a time.</hi>
+            </p>
+            <p>27. <hi>Aprilis</hi> 1605. Richard Fox <hi>Cloth-worker, con<g ref="char:EOLhyphen"/>demned to pay</hi> 40. <abbr>s.</abbr> 
+               <hi>a Cloth for mis-ſhipping.</hi>
+            </p>
+            <p>
+               <hi>At a Court holden the</hi> 11. <hi>of September</hi> 1605. <hi>divers ma<g ref="char:EOLhyphen"/>ſters of ſhips made ſuit for taking in of goods, and were re<g ref="char:EOLhyphen"/>fuſed, and if any of the Company would lade as could, were reſtrained by order.</hi>
+            </p>
+            <p>This order tends to the deſtruction of the <hi>Navi<g ref="char:EOLhyphen"/>gation</hi> of this <hi>Kingdome,</hi> and the undoing of ſea-faring men, and this is the language of the <hi>Parliament in his late Majeſties reigne,</hi> and the generall complaint of the Mariners now; moreover, to ſhip in the Com<g ref="char:EOLhyphen"/>panies ſhips will coſt almoſt double freight, which is no ſmall matter.</p>
+            <p>Fourthly, their order for ſhipping but <hi>thrice a yeare</hi> is to this effect.</p>
+            <p>
+               <hi>At a Court holden the</hi> 9 <hi>of February</hi> 1604. <hi>no ſhipping out of Cloth to Middleburgh but three times in a yeare, February, May, September.</hi>
+            </p>
+            <p>This order is of a threefold prejudice, in generall to the Kingdome, in particular to the Merchant, and eſpecially to the Clothier, who cannot ſell but when
+<pb n="32" facs="tcp:123479:19"/>the Merchant will buy, and the Merchant will not buy but when he may tranſport, and if he may not tranſport when he pleaſeth, the cloth muſt lie unſold either upon the Clothier or Merchants hands, which loſſe of time endeareth the commodities. It is to be feared this Company might for their private lucre alſo make an Act, that the members of their Com<g ref="char:EOLhyphen"/>pany ſhould be ſtinted in the price they ſhould give for cloth, as well as the quantity they muſt buy or tranſport, and indeed they are come very neare to it, as manifeſtly appears by this following Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden April. 19. 1634.</head>
+                        <p>MAſter <hi>Whithers</hi> did exhibit two ſeverall Papers to this Court to be conſidered of, concerning what abatements ſhould be made for all defects of Cloth, whether in weight, length, or breadth, as alſo ſome points for the ordering of tarre, which he deſired might be commended to the Courts of <hi>Hamburgh</hi> and <hi>Delph,</hi> that they might conſider thereon, and further adviſe of any other courſe, and it was accor<g ref="char:EOLhyphen"/>dingly ordered; but the Court of <hi>Hamburgh</hi> is to be deſired to make no Act in this buſineſſe, till they have acquainted this Court with their opinion therein. As for that M<hi rend="sup">r</hi> 
+                           <hi>Wi<g ref="char:EOLhyphen"/>thers</hi> deſired might be conſidered here, to wit, that no bro<g ref="char:EOLhyphen"/>ther ſhould buy any white cloth that is made in <hi>Glouceſter<g ref="char:EOLhyphen"/>ſhire, Wiltſhire, Oxfordſhire,</hi> and the Eaſterne limits of
+<pb n="33" facs="tcp:123479:19"/>
+                           <hi>Somerſetſhire,</hi> without abatements for all faults in which they ſhall be found defective: It was now by generall advice and approbation ordered and enacted, that every brother of the Company who doth buy cloth contrary to that effect, ſhall forfeit <hi>20. <abbr>s.</abbr>
+                           </hi> upon every cloth ſo bought, <hi>toties quoties</hi> without favour or pardon; and to the end that every brother may bee acquainted with the contents of the ſaid Draught now publiſhed, and whereupon this Order is made, it is thought fit that the ſaid Draught be printed, and one given to each brother; but this is to be done after the Lords of his Majeſties privy Councell ſhall have by their Order given countenance to this Act, to which end they Lordſhips are to be petitioned, and M<hi rend="sup">r</hi> Deputy accompanied with ſome of the Committees for trade, is appointed to preſent the ſame: After theſe things the Court did take into conſideration the paines which M<hi rend="sup">r</hi> 
+                           <hi>Withers</hi> hath taken in their buſineſſe the laſt yeare, and have gratified him with <hi>500</hi> Marks, his time being to end with his accompt the <hi>25</hi> of March, hee did now thankfully accept thereof.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>It is worth the obſerving when this Order was made, even about that time when they had by their often gifts at New years tide, and other <hi>left handed meanes,</hi> got their Authority to be proclaimed for re<g ref="char:EOLhyphen"/>ſtraining all Merchants, not free of their Company, from tranſporting any woollen Commodities, or
+<pb n="34" facs="tcp:123479:20"/>to pay 100. <abbr>l.</abbr> and come in to the Company; then they make this Order to curb the poore clothier to abate for defects as much as they pleaſe; and though that Order was not to bee enacted by them before <hi>the Lords of his Majeſties privy Councell had given coun<g ref="char:EOLhyphen"/>tenance thereunto,</hi> yet notwithſtanding <hi>at a Court hol<g ref="char:EOLhyphen"/>den the</hi> 21 <hi>of May</hi> 1634, <hi>the ſaid Order was confirmed without conſent of the Lords.</hi> Thus wee ſee how ille<g ref="char:EOLhyphen"/>gally the Company proceeds in their owne Courts, againſt their owne Orders, and moleſted the Clo<g ref="char:EOLhyphen"/>thiers by many ſuites in Law, and not only them, but alſo others, and were at vaſt expences to get their own ends.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden March. 4. 1634.</head>
+                        <p>THe Committees that were appointed to deale with M<hi rend="sup">r</hi> 
+                           <hi>Withers</hi> touching his entertainment, now brought back that buſineſſe to this Court, for that they found his accompt of charges to bee ſuch, as they conceived it meet the Court ſhould be made acquainted therewith before any reſolution were taken touching his allowance of the ſame; for they finde in one yeare, <hi>viz.</hi> ſince our Lady day laſt, being now almoſt one whole yeare, a matter of <hi>270. <abbr>l.</abbr>
+                           </hi> laid out upon ordinary charges, and about <hi>150. <abbr>l.</abbr>
+                           </hi> laid out in charges of Law ſuites, whereof ſome <hi>100</hi> Marks in a Star-chamber ſuite againſt Sir <hi>Edward Bainton,</hi> whereupon the Court had conſidera<g ref="char:EOLhyphen"/>tion, and conceiving that the Company might bee brought
+<pb n="35" facs="tcp:123479:20"/>into ſome diſrepute by ſuits againſt clothiers, or taking the benefit of forfeitures of penall Statutes, but eſpecially might perhaps be brought into ſome danger for maintaining that ſuit in the Starchamber, it was for preſent ordered, that the allowance of M<hi rend="sup">r</hi>. <hi>Withers</hi> ſaid accompt ſhould for a while be held in ſuſpence untill the Company were well ſatisfied what to reſolve therein. In the meane while becauſe M<hi rend="sup">r</hi> 
+                           <hi>Withers</hi> is forthwith to goe into the Country, it was ordered that <hi>M<hi rend="sup">r</hi>
+                           </hi> Treaſurer ſhould impreſt unto M<hi rend="sup">r</hi> 
+                           <hi>Withers 200. <abbr>l.</abbr>
+                           </hi> upon ac<g ref="char:EOLhyphen"/>compt of his ordinary charges, untill further audit of his ac<g ref="char:EOLhyphen"/>compt, and M<hi rend="sup">r</hi> Deputy and M<hi rend="sup">r</hi> 
+                           <hi>Peter Jones</hi> are deſired to counſell in the Companies behalfe with M<hi rend="sup">r</hi> Attorney Gene<g ref="char:EOLhyphen"/>rall, what is ſafe and fitting for the Company to doe in bea<g ref="char:EOLhyphen"/>ring or forbearing the meddling with the charge of Lawſuits, upon returne of whoſe opinion the Court will reſolve herein as they ſhall finde cauſe.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Here we ſee the cunning dealing of this Compa<g ref="char:EOLhyphen"/>nie, that when they had done their worſt in Law, and perceived they could not prevaile, then they ſeeme to be very cautious to meddle with the ac<g ref="char:EOLhyphen"/>compt of charges.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a Court holden the 29. of Auguſt 1635.</head>
+                        <p>THis Court did proceed to conſider of the gratification of M<hi rend="sup">r</hi>. <hi>Withers</hi> for his laſt yeare, and for paiment of
+<pb n="36" facs="tcp:123479:21"/>his bills of charges in the ſame, as alſo for his entertainment for the yeare to come, in which they deſired to include his further charges whatſoever, and he not to accompt as hi<g ref="char:EOLhyphen"/>therto he hath done; and having found that his bill of char<g ref="char:EOLhyphen"/>ges for the laſt yeare came to <hi>420. <abbr>l.</abbr>
+                           </hi> whereof <hi>150. <abbr>l.</abbr>
+                           </hi> was for Law-ſuits in the Star-chamber, and other Courts of Iuſtice, it was agreed and conſented unto, that the <hi>270 <abbr>l.</abbr>
+                           </hi> for ordi<g ref="char:EOLhyphen"/>nary charges ſhould be paid, but for the other <hi>150. <abbr>l.</abbr>
+                           </hi> they would deferre the payment thereof untill the cauſe betweene him and S<hi rend="sup">r</hi> 
+                           <hi>Edward Baynton</hi> were ended; and if then M<hi rend="sup">r</hi> 
+                           <hi>Withers</hi> were loſer thereby, then he ſhould have re<g ref="char:EOLhyphen"/>courſe to this Court, who would then further conſider thereof.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Note the precedent order, the 150 l. expended in <hi>Law</hi> and <hi>Star-chamber ſuits,</hi> M<hi rend="sup">r</hi> 
+               <hi>Withers</hi> muſt not have untill the Company doth ſee which way the ſcale will turne, and if Sir <hi>Edward Bainton</hi> be caſt, then the Company will owne the cauſe, if not, they will ſeeme to diſclaime it, and finde out ſome back doore or private way to pay or gratifie M<hi rend="sup">r</hi> 
+               <hi>Withers.</hi>
+            </p>
+            <p>Fiftly and laſtly, the Company tieth their Mem<g ref="char:EOLhyphen"/>bers to trade to two <hi>Towns</hi> only, viz. <hi>Hamburgh</hi> and <hi>Rotterdam.</hi> Firſt, it is well knowne that to goe to <hi>Rotterdam</hi> is but the entrance of Holland and other parts, and although the Merchant may tranſport his commodities as farre againe and deeper into the Countrey for the ſame freight, yet he may not; never<g ref="char:EOLhyphen"/>theleſſe before the commodities doe come to the
+<pb n="37" facs="tcp:123479:21"/>Retailers hands it muſt be tranſported from <hi>Rotter<g ref="char:EOLhyphen"/>dam,</hi> and then it coſts more freight and other char<g ref="char:EOLhyphen"/>ges then is paid from <hi>London</hi> to <hi>Rotterdam:</hi> thus un<g ref="char:EOLhyphen"/>neceſſarily they charge our commodities.</p>
+            <p>Secondly, it is prejudiciall in the higheſt nature to the ſale of our commodities, for the pettie Shop<g ref="char:EOLhyphen"/>keepers and Retailers will not come ſo farre to buy our Commodities. It is too chargeable, coſtly, and ſometimes dangerous travelling, and will not quit coſt to travell ſo farre to buy ſmall quantities. Now this inconvenience is fallen upon it, that the great traders or buyers of our Cloth, which the <hi>Dutch</hi> call <hi>Groſsiers,</hi> (and it is a proper name for them, becauſe they are <hi>engroſſers of our Commodities</hi>) doe come and buy great quantities together, and when theſe men are come to <hi>Amſterdam</hi> and other remote places, then they furniſh all thoſe ſmaller Shopkeepers and other Chapmen with our commodities, and theſe men get a competent gaine thereby; which if trade were free, our Merchants might gaine ſo much the more, or afford our Cloth ſo much the cheaper unto the <hi>Re<g ref="char:EOLhyphen"/>tailer,</hi> and by cheap ſelling we ſhould the ſooner beat the Dutch from making. But there is a greater harm in it then this; for the chief makers of Cloth in Hol<g ref="char:EOLhyphen"/>land and thoſe parts thereabouts be thoſe great buy<g ref="char:EOLhyphen"/>ers or Groſſiers, who aime at ingroſſing our cloth for two reaſons; firſt, becauſe they get good gaine upon our commodities in ſelling them, as aforeſaid, to ſmaller tradeſmen; but ſecondly and principal<g ref="char:EOLhyphen"/>ly, to advance the ſale of their owne home-made
+<pb n="38" facs="tcp:123479:22"/>cloth before our Engliſh, which is eaſily done ha<g ref="char:EOLhyphen"/>ving the ſale of both in their owne hands, none can hinder them; and ſeeing it is ſo, that the Dutch do make great quantity of cloth and other woollen commodities, there is a far greater neceſſity of a free trade and ſelling cheape then heretofore, when the Hollanders made none, or but few; for then it was eaſie to make them give what price we pleaſed for cloth; but now we muſt not onely endeavour to ſell our commodities, but ſhould chiefly aime to ſell ſo cheape, as might cauſe the Dutch to deſiſt from making of cloth</p>
+            <p>The greateſt <hi>bane</hi> which ever the commerce of this Kingdome received, was, that the <hi>Hollanders</hi> and others fell to the making of cloth, and other woollen manufactures; and if the <hi>Flemming</hi> ſhould come to ſet up woollen Loomes as the Hollander doth, to what a low ebbe our trade of cloth would ſinke unto, it is an eaſie thing to be a <hi>Prophet.</hi>
+            </p>
+            <p>Therefore there is no one thing that requires the policie of <hi>England</hi> more, then to draw the one, and prevent the other from making of cloth and other woollen commodities in that abundance. Now there is no way under Heaven to doe it but by de<g ref="char:EOLhyphen"/>viſing wayes to ſell our Manufactures at cheaper rates, and diſperſe them more up and downe the Countrey, which cannot be otherwiſe effected then by a free Trade, and multitude of Merchants, and by fitting all places and remote parts with ſuch kind
+<pb n="39" facs="tcp:123479:22"/>of Manufactures as are moſt proper for them: Theſe reaſons no doubt will give good ſatisfaction to indif<g ref="char:EOLhyphen"/>ferent men, who (under favour) cannot deny but this Company of Merchant-Adventurers is as pre<g ref="char:EOLhyphen"/>judiciall to this Kingdome as ever the French or Spaniſh Companies were, and to prove they were ſo, it will be requiſite here to inſert an Act of Parlia<g ref="char:EOLhyphen"/>ment <hi>in tertio Jacobi,</hi> by which they were diſſolved; the Act runs thus.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="act">
+                        <p>
+                           <hi>VVHereas divers Merchants have of late obtained from the Kings moſt excel<g ref="char:EOLhyphen"/>lent Majeſty under the Great Seale of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>a large Charter of Incorporation for them and their Company to trade into the Dominious of</hi> Spaine <hi>and</hi> Portugall, <hi>and are al<g ref="char:EOLhyphen"/>ſo moſt earneſt ſuiters to obtain the like from his ſaid Majeſtie for</hi> France, <hi>whereby none but themſelves and ſuch as they ſhall thinke fit, as being meere Merchants, ſhall take the benefit of the ſaid Charter, diſabling thereby all others his Majeſties loving Subjects of this Realme of</hi> England <hi>and</hi> Wales, <hi>who du<g ref="char:EOLhyphen"/>ring in divers reſpects greatly charged for the defence of their Prince and Countrey, and therefore ought indifferently to enjoy all the benetits of this moſt happy peace, and alſo de<g ref="char:EOLhyphen"/>barring
+<pb n="40" facs="tcp:123479:23"/>them from that free enlargement of common Trafficke into thoſe Dominions, which others his Majeſties Subjects of his Realmes of</hi> Scotland <hi>and</hi> Ireland <hi>doe enjoy, to the manifeſt impoveriſhing of all owners of Ships, Maſters, Mariners, Fiſhermen, Clo<g ref="char:EOLhyphen"/>thiers, Tuckers, Spinſters, and many thou<g ref="char:EOLhyphen"/>ſands of all ſorts of Handy-crafts men, be<g ref="char:EOLhyphen"/>ſides the decreaſe of his Majeſties Cuſtomes, Subſidies, and other impoſitions, and the ruine &amp; decay of Navigation, together with the abatement of the prices of our wools, Cloth, Corn, and ſuch like commodities ari<g ref="char:EOLhyphen"/>ſing and growing within this his ſaid Ma<g ref="char:EOLhyphen"/>jeſties Realm of</hi> England, <hi>and the enhancing of all French and Spaniſh commodities, by reaſon of the inſufficiency of the Merchants, they being few in number, and not of ability to keep the great number of our Ships and Seafaring men a work, and to vent the great ſtore of commodities which this his Majeſties Dominion of</hi> England, <hi>doth yeeld. And by meanes that all Owners and Mari<g ref="char:EOLhyphen"/>ners with divers others (if theſe Incorpora<g ref="char:EOLhyphen"/>tions ſhould continue) ſhall bee cut off from their ordinary meanes of maintenance and preſerving their eſtates. And finally, by rea<g ref="char:EOLhyphen"/>ſon that all French and Spaniſh commodi<g ref="char:EOLhyphen"/>ties
+<pb n="41" facs="tcp:123479:23"/>ſhall be in a few mens hands: In re<g ref="char:EOLhyphen"/>ſpect whereof, as for many other manifold inconveniences growing thereby, much hurt and prejudice muſt needs redound to all his Majeſties loving Subjects of this his High<g ref="char:EOLhyphen"/>neſſe Realme of</hi> England, <hi>if reformation for the prevention of ſo great an evill be not had in due time: For remedy whereof, be it en<g ref="char:EOLhyphen"/>acted by the Kings moſt Excellent Majeſty, the Lords Spirituall and Temporall, and Commons in this preſent Parliament aſſem<g ref="char:EOLhyphen"/>bled, and by the Authority of the ſame, That it ſhall and may be lawfull to and for all his Majeſties Subjects of this his Highneſſe Realme of</hi> England <hi>and</hi> Wales, <hi>from hence<g ref="char:EOLhyphen"/>forth at all times to have free liberty to trade into and from the Dominious of</hi> Spaine, Por<g ref="char:EOLhyphen"/>tugall, <hi>and</hi> France, <hi>in ſuch fort, and in as free manner as was at any time accuſtomed ſi<g ref="char:EOLhyphen"/>thence the begining of this his Highnes moſt happy Reign in this his Realm of</hi> England, <hi>and at any time before the ſaid Charter of Incorporation was granted, paying to the Kings moſt Excellent Majeſty, his Heires, and Succeſſors, all ſuch cuſtomes, and other duties, as by the Lawes and Statutes of this Realme ought to be paid and done for the ſame. The ſaid Charter of Incorpora<g ref="char:EOLhyphen"/>tion,
+<pb n="42" facs="tcp:123479:24"/>or any other Charter, Grant, Act, or any thing elſe heretofore made, or done, or hereafter to be done to the contrary in any wiſe notwithſtanding. Provided alwayes, that this Act or any thing therein contained ſhall not be of force to enable, or give liberty to any perſon or perſons to goe over Seas without licence, who by the Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realme, or by any Statute hereafter to be made, ſhall be reſtrained from going beyond the Seas without licence, any thing to the contrary notwithſtanding.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Were there nothing more ſaid then what this <hi>Act of Parliament</hi> relates, it is ſufficient to convince any rationall man of the unſufferable wrong the Kingdom receives by ſuch illegall Incorporations: ſeverall Parliaments have found and adjudged them ſo, and particularly this Company of Merchant-Ad<g ref="char:EOLhyphen"/>venturers, againſt which there paſſed alſo two <hi>Votes</hi> in full Parliament a little before his late Majeſties death, extracted out of the Parliament Records as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>Die Veneris 30. Aprilis, 22 Iacobi.</head>
+                        <p>UPon a Report this day made to the Commons Houſe of Parliament from the generall Committee for Trade, concerning the impreſt money ſet by the Company of Mer<g ref="char:EOLhyphen"/>chant-Adventurers
+<pb n="43" facs="tcp:123479:24"/>of <hi>London</hi> upon Cloth, and after long debate thereof in the Houſe, It is reſolved and decla<g ref="char:EOLhyphen"/>red by the ſaid Houſe of Commons, that the opinion of the Houſe is, that ſuch ſetting of the ſaid impreſt money upon Cloth is unlawfull, unjuſt, and a grievance to the people, and is to bee taken off, and no longer to bee continued by them: And upon further Report from the ſaid Committee, and like debate in the ſaid Houſe, It is further declared, that the Houſe thinks fit, that as well the Merchant Ad<g ref="char:EOLhyphen"/>venturers, as all other Merchants promiſcuouſly, may tranſport to all places all Northern and Weſtern Dozens, Kerſies, and new Manufactures.</p>
+                        <closer>
+                           <signed>H. Elſyng Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>Die Lunae 10. Maii. 22. Iacobi.</head>
+                        <p>UPon a Report this day made to the Houſe of Commons from the grand Committee for Trade, concerning the freedome of exportation of died, and dreſſed, and all colou<g ref="char:EOLhyphen"/>red Clothes into the parts of <hi>Germany</hi> and the <hi>Low Countreys,</hi> by other Merchants beſides the Merchant-Adventurers, and after long debate thereof in the Houſe, It is reſolved and declared by the ſaid Houſe of Commons, that the opinion thereof is, that other Merchants beſides the Merchant-Adventurers, may freely trade with died, and dreſt, and all forts of coloured Clothes into <hi>Germany</hi> and the <hi>Low Countreys.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elſyng Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="44" facs="tcp:123479:25"/>
+            <p>But to this they ſeeme to object the <hi>Ordinance</hi> of this preſent <hi>Parliament</hi> for the continuance of their Company: This, under correction, cannot hold plea, for the ſaid Ordinance paſſed with this proviſo and clauſe of reſervation by the wiſedom of both Houſes, <hi>That all rights confirmed by Act of Parliament, or ancient Charters, ſhould be thereby ſaved;</hi> ſo that it is rightly conceived that that Ordinance is not binding nor of a reſtraining nature.</p>
+            <p>Therefore it is moſt humbly deſired, that the a<g ref="char:EOLhyphen"/>foreſaid <hi>Patent of the Company of Merchant-Adventu<g ref="char:EOLhyphen"/>rers</hi> may not be binding to others not free of their Company, in regard it is</p>
+            <list>
+               <item>
+                  <hi>Illegall,</hi>
+               </item>
+               <item>
+                  <hi>Vnuſefull,</hi>
+               </item>
+               <item>
+                  <hi>Prejudiciall,</hi>
+               </item>
+               <item>
+                  <hi>Abuſive.</hi>
+               </item>
+            </list>
+            <p>It is <hi>illegall,</hi> becauſe it is repugnant to expreſſe Acts of Parliaments.</p>
+            <p>It is againſt the <hi>naturall right and priviledge of free born Subjects,</hi> as appeares by Magna Charta, and Petition of right. It is a meere Monopoly both in the intention and the execution, for by paying mo<g ref="char:EOLhyphen"/>ney the Subject enjoyes his right, and denying pay<g ref="char:EOLhyphen"/>ment he is debard of it.</p>
+            <p>it is a grievance of the higheſt nature, in regard it gives an extrajudiciall power to impriſon the Sub<g ref="char:EOLhyphen"/>ject without baile or mainprize, to take away his
+<pb n="45" facs="tcp:123479:25"/>goods, to contrive and impoſe oathes, to lay and le<g ref="char:EOLhyphen"/>vy taxes without limitations, and convert them to private profit to the prejudice of others, <hi>which is the trueſt badge of a Monopoly.</hi>
+            </p>
+            <p>It is grounded upon Prerogative, not warranted by Common Law, or Act of Parliament, but di<g ref="char:EOLhyphen"/>rectly oppoſite to all.</p>
+            <p>The pretence of it is the ſame that all monopoli<g ref="char:EOLhyphen"/>zing Patents have, viz. <hi>Regularity</hi> and <hi>Conformity,</hi> but indeed to uſurp a right, and liberty, and to reſtore it againe for money.</p>
+            <p>The Patent is obtained by ſome particular men, without the knowledge or conſent of others; and it is a rule that no man is bound to obſerve that Law, which himſelfe conſents not to bee made againſt him.</p>
+            <p>It is <hi>
+                  <g ref="char:V">Ʋ</g>nuſefull,</hi> becauſe that this Trade, and every other profeſſion in <hi>England,</hi> is ſubject to regularity, either by laudable cuſtomes confirmed by Acts of Parliaments, or by Statute Lawes; and it is ſtrange that a Projector ſhould ſee a better way for regula<g ref="char:EOLhyphen"/>rity of trade, then ever was thought on by Act of any Parliament.</p>
+            <p>That other Merchants have no ſuch need of re<g ref="char:EOLhyphen"/>gularity, onely they are ſubject in generall to the Lawes and Cuſtomes of the Land, yet they flouriſh and proſper; and in <hi>Flanders, Brabant, Artois, Hene<g ref="char:EOLhyphen"/>gow,</hi> and other <hi>Provinces</hi> under the King of <hi>Spaine,</hi>
+               <pb n="46" facs="tcp:123479:26"/>there hath beene no government by the Company for about fourſcore yeares together, yet the trade of our Manufactures thrive farre better there, then in <hi>Holland,</hi> or <hi>Germany</hi> where regulation in trade hath beene, and our Nation is farre more beloved and reſpected.</p>
+            <p>That thoſe moneys which are leavied, are not any wayes employed for the benefit of King or Kingdome, or for bettering the Trade, but ſerve on<g ref="char:EOLhyphen"/>ly for <hi>bribes to perſerve the ill-begotten Patent,</hi> and pu<g ref="char:EOLhyphen"/>niſh ſuch as endeavour to enjoy their naturall right againſt the ſaid Patent, which ends with this odde clauſe, <hi>That every thing in it ſhall be taken, conſtrued, and adjudged moſt ſtrongly againſt us</hi> (that is the King) <hi>our Heires, and Succeſſors, and moſt benignly, favou<g ref="char:EOLhyphen"/>rably, and beneficially for the ſaid Governour, Aſsiſtants, and Fellowſhip of Merchant-Adventurers.</hi>
+            </p>
+            <p>The Patent is <hi>prejudiciall</hi> and <hi>abuſive,</hi> for that they have done and doe this Kingdom the greateſt detriment that ever befell it in point of trade, by inſtigating the Dutch to make a vertue of neceſſi<g ref="char:EOLhyphen"/>ty, by making them fall to the draping of Cloth and other woollen Manufactures, out of the hatred they conceive to their Monopoly. It is too well knowne what claſhings and conteſtations have hap<g ref="char:EOLhyphen"/>pened from time to time betweene them. To in<g ref="char:EOLhyphen"/>ſtance in one amongſt others, about the yeare 1634 there was ſuch a contention betwixt them and the
+<pb n="47" facs="tcp:123479:26"/>Dutch about Tare, that the Company kept their ware-houſes ſhut up about ſeven or eight months, which made the Dutch, in meere deſpight, to ſet up his looms and to fall a draping, and ſo continueth.</p>
+            <p>But were it not for the reſtraint they make, and the power they arrogate to themſelves of appointing the place where, the proportion what, the manner how, the time when our woollen Manufactures ſhould be tranſported, the Gentleman would have more Clothiers for his wools, the Clothier would have more Merchants for his cloth, and the Mer<g ref="char:EOLhyphen"/>chant would have more chapmen for his ware.</p>
+            <p>And although the Company receive ſome <hi>Immu<g ref="char:EOLhyphen"/>nities</hi> from the Towne where they ſeat themſelves, yet are they prejudiciall to the Kingdom in generall, for in lieu thereof thoſe Dutch in London and o<g ref="char:EOLhyphen"/>ther places, who terme themſelves members of the <hi>Intercourſe,</hi> receive the like <hi>Immunities</hi> here. And ob<g ref="char:EOLhyphen"/>ſervable it is, that though the Company have ſuch priviledges both at home and abroad, whereby they engroſſe the trade of the Kingdome in ſuch a high meaſure, yet are they liable to pay no greater taxes then others that have neither Charter nor priviledge. If they will have all the trade, it is reaſon they ſhould pay all the taxes; but they are farre from paying more then ordinary taxes, although the taxes which the Company receives from their members are ex<g ref="char:EOLhyphen"/>traordinary; for as it is extracted out of their owne books, that from the yeare 1616 to 1641 they recei<g ref="char:EOLhyphen"/>ved
+<pb n="48" facs="tcp:123479:27"/>in <hi>taxes</hi> 182295. <abbr>l.</abbr> and odde moneys, beſides what they received beyond the ſeas.</p>
+            <p>The Company of Merchant-Adventurers doe keep up their Patent for one of theſe three reaſons,</p>
+            <list>
+               <item>Either for the generall <hi>good</hi> of this Kingdom,</item>
+               <item>Either for the <hi>benefit</hi> of merchants in generall,</item>
+               <item>Either for the <hi>profit</hi> of their particular members.</item>
+            </list>
+            <p>To the firſt, if it were <hi>good</hi> for this Kingdom in generall, it is almoſt impoſſible but this Company would have beene eſtabliſhed by Law, the conve<g ref="char:EOLhyphen"/>niences and inconveniences thereof having been ſo oft debated in Parliaments, as is clearly proved for above 150 yeares paſt; but on the contrary, it never was complained of, but it ſtill was condemned by the wiſedom of the Kingdom, and freedom decla<g ref="char:EOLhyphen"/>red for all Merchants to trade.</p>
+            <p>To the ſecond, if it were for the <hi>benefit</hi> of Mer<g ref="char:EOLhyphen"/>chants in generall, then for a certaine thoſe Mer<g ref="char:EOLhyphen"/>chants of old time, and the ſucceeding ages, and the Merchants of theſe times would not have oppoſed and complained of them (as it appeares they have) but they would have ſoone diſcerned the benefit, which would have been ſufficient inducement for Merchants to have joyned with the Company, and needed not to have been forced or beaten into that which is for their owne profit, nor need the Com<g ref="char:EOLhyphen"/>pany conſtrain Merchants to grow rich againſt their will, eſpecially by indirect meanes.</p>
+            <pb n="49" facs="tcp:123479:27"/>
+            <p>To the third, if it be for the profit of their parti<g ref="char:EOLhyphen"/>cular members (as it cannot be otherwiſe concei<g ref="char:EOLhyphen"/>ved) then no doubt, but the Company will ſpeed as informer Parliaments, <hi>which God grant.</hi>
+            </p>
+            <p>For were there a freedome of Trade, it would be the onely meanes to cauſe the Dutch to deſiſt form making of Cloth; and there is nothing that condu<g ref="char:EOLhyphen"/>ceth more to the inlargement of ſelling any com<g ref="char:EOLhyphen"/>modity then cheapneſſe, for the Dutchman al<g ref="char:EOLhyphen"/>wayes goeth to the cheapeſt, though from a <hi>Chriſtian</hi> to a <hi>lew.</hi>
+            </p>
+            <p>All the premiſes impartially conſidered, it is hum<g ref="char:EOLhyphen"/>bly conceived, that it will ſtand with the policie of this Kingdome to <hi>diſanull,</hi> and <hi>cancell</hi> the <hi>Patent</hi> of thoſe that aſcribe unto themſelves the ſole name of <hi>Merchants-Adventurers,</hi> in regard it is al<g ref="char:EOLhyphen"/>ready proved <hi>illegall, unuſefull, prejudiciall,</hi> and <hi>abuſive.</hi>
+            </p>
+            <p>To conclude, this is not a new <hi>Complaint,</hi> but an old <hi>grievance,</hi> having been petitioned againſt above 150. yeares agoe, and complained of ſince from time to time, and in this preſent Parliament there are Petitions depending againſt the Company, as a Na<g ref="char:EOLhyphen"/>tionall grievance, of <hi>Merchants of London, the Clothiers of Worceſter, Eſſex, Suffolke, Norfolke, Kent, Colcheſter, Norwich, &amp;c.</hi> Whereupon it pleaſed the Honorable Houſe of Commons to appoint a Com<g ref="char:EOLhyphen"/>mittee to conſider of the Pattent of the ſaid Mer<g ref="char:EOLhyphen"/>chants Adventurers, who being permitted to bring
+<pb n="50" facs="tcp:123479:28"/>in their learned Counſell, yet they could not prove the legallity thereof.</p>
+            <p>Thus without any aime of particular intereſt, but for the generall welfare of the Kingdome, with ſin<g ref="char:EOLhyphen"/>cere hearts, and out of the deepeſt ſence of ſorrow and griefe of mind, having long obſerved their <hi>miſ<g ref="char:EOLhyphen"/>carriages,</hi> we are emboldened to preſent this <hi>generall grievance,</hi> as being thereunto bound by a two-fold tye of duty. Firſt, as free-borne Subjects of this Kingdome our birth-right and hereditary Priviled<g ref="char:EOLhyphen"/>ges are neerly concerned, and therefore we ought in conſcience to endeavour to preſerve them for our poſterity, as they have been tranſmitted to us.</p>
+            <p>Secondly, for that by the <hi>Proteſtation</hi> and <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> lately taken by us at command of this Parlia<g ref="char:EOLhyphen"/>ment, we are againe ingaged ſo to doe: And truly thoſe two vowes (if remembred) will cauſe every true-hearted man at leaſt to pray for that which hee is bound to defend and maintaine with the utmoſt hazzard of his life and fortunes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123479:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
